@@ -1,0 +1,6 @@
+Semantische HTML
+1. Wanneer je probeert te navigeren met een schermlezer is er geen structuur te bekennen en kan er eigenlijk niet genavigeerd worden. 
+
+Overige verbeteringen
+- skip links naar de eerste header op de website in de main content (dus na de nav)
+- form validation voor de comment sectie (aangeven wanneer een veld leeg is voor het verzenden)
